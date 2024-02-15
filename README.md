@@ -24,11 +24,8 @@ This is a simple web-based meme generator that allows users to create and displa
 4. Repeat steps 2-3 to add more memes.
 5. To delete a meme, click the "Delete" button on the meme you want to remove.
 
-## Preview
-[Add a screenshot or GIF here if available]
-
 ## Author
-[Your Name]
+JM STACEY DUMLAO
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
