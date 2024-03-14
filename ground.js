@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const imageElement = document.createElement("img");
         const reader = new FileReader();
         reader.onload = function(e) {
-            imageElement.src = e.targex.result;
+            imageElement.src = e.target.result;
         }
         reader.readAsDataURL(image);
 
